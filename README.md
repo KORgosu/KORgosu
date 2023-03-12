@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 Platform
-<img src="https://img.shields.io/badge/Unity-%230769AD.svg?style=for-the-badge&logo=Unity&logoColor=white">
+
+!<img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=white">
 
 
 ![KORgosu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KORgosu&show_icons=true&theme=radical)
