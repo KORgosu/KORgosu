@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  ![KORgosu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KORgosu&show_icons=true&theme=radical)
-</div>
+
+ ![KORgosu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KORgosu&show_icons=true&theme=radical)
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=ffffff">
