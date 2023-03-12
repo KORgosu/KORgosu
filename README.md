@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KORgosu)](https://github.com/KORgosu/github-readme-stats)
 
 ### TOOL
-<div align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=ffffff">
- </div>
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=ffffff">
+
+
+### Language
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000000">
+
 
