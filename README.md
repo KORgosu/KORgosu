@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KORgosu/KORgosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Platform
+<img src="https://img.shields.io/badge/Unity-%230769AD.svg?style=for-the-badge&logo=Unity&logoColor=white">
+
 
 ![KORgosu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KORgosu&show_icons=true&theme=radical)
