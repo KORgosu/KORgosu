@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ![KORgosu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KORgosu&show_icons=true&theme=radical)
 <div align="center">
-  Platform
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=ffffff">
  
  </div>
 
