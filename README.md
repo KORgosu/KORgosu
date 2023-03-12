@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ![KORgosu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KORgosu&show_icons=true&theme=radical)
-
-Platform & Language
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+  Platform
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=ffffff">
+ 
+ </div>
 
