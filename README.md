@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=ffffff"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=ffffff">
 <br/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=black">
-<img src="https://img.shields.io/badge/Cloudera-9999FF?style=for-the-badge&logo=CLO 3D&logoColor=black">
+<img src="https://img.shields.io/badge/CLO 3D-00?style=for-the-badge&logo=Cloudera&logoColor=black">
 
 
 #### Language
