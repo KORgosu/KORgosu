@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KORgosu)](https://github.com/KORgosu/github-readme-stats)
+![Su Hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KORgosu&show_icons=true&theme=radical)
+
 
 #### TOOL
 
