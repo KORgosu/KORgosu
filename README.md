@@ -14,12 +14,13 @@
 
 ### 🎓 Education & Career
 
-| 구분 | 전공 | 비고 |
-|------|------|------|
-| ![B.S.](https://img.shields.io/badge/B.S.-378ADD?style=flat-square&logoColor=white) | 세종대학교 지능기전공학부 스마트기기공학 | Smart Device Engineering |
-| ![융합전공](https://img.shields.io/badge/융합전공-7F77DD?style=flat-square&logoColor=white) | 엔터테인먼트 소프트웨어 | Entertainment Software |
-| ![M.S.](https://img.shields.io/badge/M.S.-1D9E75?style=flat-square&logoColor=white) | 세종대학교 우주항공시스템공학부 국방우주공학 | Aerospace & Defense Systems Eng. |
-| ![2028](https://img.shields.io/badge/2028-EF9F27?style=flat-square&logoColor=white) | Edelway Technologies 합류 예정 | Joining 2028.02 |
+| 구분 | 전공 | 비고 | 기간 |
+|------|------|------|------|
+| ![B.S.](https://img.shields.io/badge/B.S.-378ADD?style=flat-square&logoColor=white) | 세종대학교 지능기전공학부 스마트기기공학 | Smart Device Engineering | 2019.03 ~ 2025.02 |
+| ![융합전공](https://img.shields.io/badge/융합전공-7F77DD?style=flat-square&logoColor=white) | 엔터테인먼트 소프트웨어 | Entertainment Software | 2021.06 ~ 2025.02 |
+| ![교육](https://img.shields.io/badge/교육-D24939?style=flat-square&logoColor=white) | 현대오토에버 Mobility SW School — Cloud Track | Cloud Engineering | 2025.04 ~ 2025.11 |
+| ![M.S.](https://img.shields.io/badge/M.S.-1D9E75?style=flat-square&logoColor=white) | 세종대학교 우주항공시스템공학부 국방우주공학 | Aerospace & Defense Systems Eng. | 2026.03 ~ 2028.02 |
+| [![Edelway](https://img.shields.io/badge/2028-EF9F27?style=flat-square&logoColor=white)](https://www.edelway.ai/) | Edelway Technologies 합류 예정 | Joining 2028.02 | 2028.02 ~ |
 
 ---
 
