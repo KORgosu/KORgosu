@@ -48,6 +48,8 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
+---
+
 ### 🏅 Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS_SAA-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
