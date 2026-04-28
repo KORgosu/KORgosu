@@ -6,7 +6,7 @@
 
 ![Sejong](https://img.shields.io/badge/Sejong_University-003893?style=flat-square)
 ![Radar Lab](https://img.shields.io/badge/Radar_Research_Lab-1D9E75?style=flat-square)
-![Edelway](https://img.shields.io/badge/Edelway_Technologies_2028-EF9F27?style=flat-square)
+[![Edelway](https://img.shields.io/badge/Edelway_Technologies_2028-EF9F27?style=flat-square&logoColor=white)](https://www.edelway.ai/)
 
 </div>
 
