@@ -18,8 +18,8 @@
 |------|------|------|
 | ![B.S.](https://img.shields.io/badge/B.S.-378ADD?style=flat-square&logoColor=white) | 세종대학교 지능기전공학부 스마트기기공학 | Smart Device Engineering |
 | ![융합전공](https://img.shields.io/badge/융합전공-7F77DD?style=flat-square&logoColor=white) | 엔터테인먼트 소프트웨어 | Entertainment Software |
-| ![M.S.](https://img.shields.io/badge/M.S.-1D9E75?style=flat-square&logoColor=white) | 우주항공시스템공학부 국방우주공학 | Aerospace & Defense Systems Eng. |
-| ![2028](https://img.shields.io/badge/2028-EF9F27?style=flat-square&logoColor=white) | Edelway Technologies 합류 예정 | Joining 2028 |
+| ![M.S.](https://img.shields.io/badge/M.S.-1D9E75?style=flat-square&logoColor=white) | 세종대학교 우주항공시스템공학부 국방우주공학 | Aerospace & Defense Systems Eng. |
+| ![2028](https://img.shields.io/badge/2028-EF9F27?style=flat-square&logoColor=white) | Edelway Technologies 합류 예정 | Joining 2028.02 |
 
 ---
 
@@ -32,6 +32,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
