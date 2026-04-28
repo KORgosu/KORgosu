@@ -48,6 +48,13 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
+### 🏅 Certifications
+
+![AWS SAA](https://img.shields.io/badge/AWS_SAA-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-0076A8?style=flat-square)
+![SQLD](https://img.shields.io/badge/SQLD-003B57?style=flat-square)
+![네트워크관리사 2급](https://img.shields.io/badge/네트워크관리사_2급-5F5E5A?style=flat-square)
+
 ---
 
 ### 📊 GitHub Stats
