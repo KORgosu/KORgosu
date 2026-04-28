@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Cloud+%2F+DevOps+Engineer;Radar+Signal+Processing+Researcher;Aerospace+%26+Defense+Systems+Engineer)](https://git.io/typing-svg)
 
-# 박수환 · Park Suhwan
+# 박수환 · Park Su Hwan
 
 ![Sejong](https://img.shields.io/badge/Sejong_University-003893?style=flat-square)
 ![Radar Lab](https://img.shields.io/badge/Radar_Research_Lab-1D9E75?style=flat-square)
