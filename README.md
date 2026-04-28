@@ -7,7 +7,7 @@ Cloud / DevOps · Radar Signal Processing · Embedded Systems
 🎓 Sejong University — Aerospace & Defense Systems Engineering  
 📡 Radar Research Lab (FMCW · CFAR · Ambiguity Function)  
 ☁️ AWS Certified Solutions Architect – Associate  
-🏭 Ex Hyundai AutoEver Cloud Track  
+🏭 현대오토에버 모빌리티 SW 스쿨 2기 (클라우드) 수료 
 
 ---
 
@@ -27,9 +27,11 @@ Cloud / DevOps · Radar Signal Processing · Embedded Systems
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003153?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **Languages & Etc.**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
@@ -42,4 +44,7 @@ Cloud / DevOps · Radar Signal Processing · Embedded Systems
 
 ---
 
-📫 [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](#) · [Email](mailto:your@email.com)
+📝 [Tistory](https://nexon25.tistory.com) · 
+✍️ [Velog](https://velog.io/@nexon257/series) · 
+💼 [LinkedIn](https://www.linkedin.com/in/korgosu/) · 
+📫 [nexon257@naver.com](mailto:nexon257@naver.com)
