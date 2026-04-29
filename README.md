@@ -74,5 +74,5 @@
 
 [![Tistory](https://img.shields.io/badge/Tistory-FF6B00?style=flat-square&logo=tistory&logoColor=white)](https://nexon25.tistory.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nexon257/series)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korgosu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/korgosu/)
 [![Email](https://img.shields.io/badge/nexon257@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:nexon257@naver.com)
