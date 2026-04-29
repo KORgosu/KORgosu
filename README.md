@@ -1,12 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Cloud+%2F+DevOps+Engineer;Radar+Signal+Processing+Researcher;Aerospace+%26+Defense+Systems+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Cloud+%2F+DevOps+Engineer;Infrastructure+Automation;Container+Orchestration+%26+GitOps)](https://git.io/typing-svg)
 
 # 박수환 · Park Su Hwan
 
 ![Sejong](https://img.shields.io/badge/Sejong_University-003893?style=flat-square)
-![Radar Lab](https://img.shields.io/badge/Radar_Research_Lab-1D9E75?style=flat-square)
-[![Edelway](https://img.shields.io/badge/Edelway_Technologies_2028-EF9F27?style=flat-square&logoColor=white)](https://www.edelway.ai/)
+![AutoEver](https://img.shields.io/badge/Hyundai_AutoEver_Cloud_Track-0076A8?style=flat-square)
 
 </div>
 
@@ -20,8 +19,6 @@
 | ![군복무](https://img.shields.io/badge/군복무-5F5E5A?style=flat-square&logoColor=white) | 대한민국 공군 — 군사경찰 · 보안관제 | ROKAF Military Police | 2019.08 ~ 2021.05 |
 | ![융합전공](https://img.shields.io/badge/융합전공-7F77DD?style=flat-square&logoColor=white) | 엔터테인먼트 소프트웨어 | Entertainment Software | 2021.06 ~ 2025.02 |
 | ![교육](https://img.shields.io/badge/교육-D24939?style=flat-square&logoColor=white) | 현대오토에버 Mobility SW School — Cloud Track | Cloud Engineering | 2025.04 ~ 2025.11 |
-| ![M.S.](https://img.shields.io/badge/M.S.-1D9E75?style=flat-square&logoColor=white) | 세종대학교 우주항공시스템공학부 국방우주공학 | Aerospace & Defense Systems Eng. | 2026.03 ~ 2028.02 |
-| [![Edelway](https://img.shields.io/badge/2028-EF9F27?style=flat-square&logoColor=white)](https://www.edelway.ai/) | Edelway Technologies 합류 예정 | Radar System Eng. (FMCW) | 2028.02 ~ |
 
 ---
 
