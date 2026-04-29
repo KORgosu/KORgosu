@@ -27,14 +27,14 @@
 #### 💱 MSA 실시간 환율 웹 서비스
 > 4인 팀 프로젝트 · DevOps/PM 담당 · 2025
 
-마이크로서비스 아키텍처 기반 실시간 환율 데이터 파이프라인 설계 및 구축.  
+마이크로서비스 아키텍처 기반 실시간 환율 데이터 파이프라인 설계 및 쿠버네티스 클러스터 구축.  
 5개 서비스(Frontend + Backend 4개), Kafka 기반 이벤트 스트리밍, Redis 캐싱 구조.
 
 - Jenkins Golden AMI 도입 → Worker 프로비저닝 **60초 → 20초 (66% 단축)**
 - Master-Worker 분리 + AutoScaling → 월 비용 **$60 → $30 (50% 절감)**
 - VPC CNI Prefix Delegation → 노드당 Pod **17 → 110개 (6.5배 확장)**
 - ArgoCD Automated Sync 기반 GitOps 파이프라인 구축
-- Prometheus + Grafana 메트릭 기반 리소스 최적화 (메모리 여유 2.6Gi 확보)
+- Prometheus + Grafana 모니터링 및 메트릭 기반 리소스 최적화 (메모리 여유 2.6Gi 확보)
 
 [![Service Repo](https://img.shields.io/badge/GitHub-Service_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/trip-currency-service)
 [![GitOps Repo](https://img.shields.io/badge/GitHub-GitOps_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/trip-currency-local-gitops)
