@@ -50,7 +50,7 @@ Xbox 패드로 실시간 디스플레이 제어 가능한 인터랙티브 파이
 - UDP 기반 OSC 프로토콜로 Unreal Engine ↔ TouchDesigner 클라이언트 통신 구현
 - 렌더링 거리 및 에셋 최적화로 주사율 드롭 문제 해결
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/Unreal_2D_1)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/Unreal_IATD)
 
 ---
 
