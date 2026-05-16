@@ -25,17 +25,43 @@
 ### 🚀 Projects
 
 #### 💱 MSA 실시간 환율 웹 서비스
-> 4인 팀 프로젝트 · DevOps/PM 담당 · 2025
+> 4인 팀 프로젝트 · DevSecOps/PM 담당 · 2025
 
-마이크로서비스 아키텍처 기반 실시간 환율 데이터 파이프라인 설계 및 쿠버네티스 클러스터 구축 및 운영.  
-5개 서비스(Frontend + Backend 4개), Kafka 기반 이벤트 스트리밍, Redis 캐싱 구조.  
-AWS Public Cloud 기반 서비스 운영.
+실시간 환율 데이터 파이프라인을 MSA + EKS 기반으로 설계·운영.  
+5개 서비스(Frontend + Backend 4개), Kafka 이벤트 스트리밍, Redis 캐싱.  
+보안을 설계 초기부터 내재화한 DevSecOps 파이프라인 구축.  
 
-- Jenkins Golden AMI 도입 → Worker 프로비저닝 **60초 → 20초 (66% 단축)**
-- Master-Worker 분리 + AutoScaling → 월 비용 **$60 → $30 (50% 절감)**
-- VPC CNI Prefix Delegation → 노드당 Pod **17 → 110개 (6.5배 확장)**
-- ArgoCD Automated Sync 기반 GitOps 파이프라인 구축
-- Prometheus + Grafana 모니터링 및 메트릭 기반 리소스 최적화 (메모리 여유 2.6Gi 확보)
+**CI/CD · GitOps**
+  - Jenkins Golden AMI 도입 → Worker 프로비저닝 60초 → 20초 (66% 단축)
+  - Master-Worker 분리 + AutoScaling → 월 비용 $60 → $30 (50% 절감)
+  - ArgoCD GitOps (ServerSideApply + selfHeal) — 클러스터 상태를 git이 단일 진실 원천으로 관리
+
+**공급망 보안 (Supply Chain Security)**
+  - Jenkins 파이프라인에 Trivy SBOM(CycloneDX) 생성 + CRITICAL 취약점 자동 차단 스테이지 추가
+  - ECR Enhanced Scanning (AWS Inspector v2 CONTINUOUS_SCAN) — 전 레포지토리 상시 스캔
+
+**제로트러스트 네트워크**
+  - Calico NetworkPolicy 12개 (default-deny 기반 최소 권한) — 서비스 간 허용 트래픽만 명시
+  - PSA enforce:restricted — API 서버 레벨 비준수 파드 배포 차단
+
+**컨테이너 보안 하드닝**
+  - 전 워크로드에 runAsNonRoot, readOnlyRootFilesystem, capabilities.drop:ALL, seccompProfile:RuntimeDefault 적용
+  - IRSA(IAM Roles for Service Accounts) — 파드 단위 최소 권한 IAM, 노드 IAM 미사용
+
+**시크릿 관리**
+  - ESO(External Secrets Operator) + AWS Secrets Manager — DB 엔드포인트·API 키 git 미노출
+  - GitOps 파이프라인 전 구간에서 평문 시크릿 없음
+
+**관측성 · 위협 탐지**
+  - GuardDuty 8종 탐지 활성화 (CloudTrail, EKS Audit, Runtime Monitoring 포함)
+  - Prometheus PrometheusRule 16개 (안정성 8 · 보안 4 · Kafka 4) + AlertManager Slack 연동
+  - Grafana 대시보드 3종 (Stability / Security / Kafka) — 이상 Egress·CPU Throttle 보안 지표 포함
+  - Fluent Bit → CloudWatch Logs 4계층 수집 (애플리케이션 30일 / 인프라·호스트 14일)
+
+**인프라 최적화**
+  - VPC CNI Prefix Delegation → 노드당 Pod 17 → 110개 (6.5배 확장)
+  - EKS 컨트롤 플레인 로깅 5종 전체 활성화 + API 서버 CIDR 제한
+  - Prometheus 기반 메트릭 리소스 최적화 (메모리 여유 2.6Gi 확보)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/trip-currency)
 
