@@ -37,8 +37,7 @@ AWS Public Cloud 기반 서비스 운영.
 - ArgoCD Automated Sync 기반 GitOps 파이프라인 구축
 - Prometheus + Grafana 모니터링 및 메트릭 기반 리소스 최적화 (메모리 여유 2.6Gi 확보)
 
-[![Service Repo](https://img.shields.io/badge/GitHub-Service_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/trip-currency-service)
-[![GitOps Repo](https://img.shields.io/badge/GitHub-GitOps_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/trip-currency-local-gitops)
+[![Repo](https://img.shields.io/badge/GitHub-Service_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KORgosu/trip-currency)
 
 ---
 
